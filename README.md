@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+theme: midnight_theme
+title: Cassiano Gatto's homepage
+description: Bookmark this to keep an eye on my project updates!
+
+
+## Cassiano Gatto' profile (in construction)
 
 You can use the [editor on GitHub](https://github.com/cassianogatto/cassianogatto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
