@@ -6,7 +6,7 @@ description: Bookmark this to keep an eye on my project updates!
 <a href="https://lh3.googleusercontent.com/BnwMVrwEs2QavQr4xP2o-RqU1V7JnFRFM6GLrl29QNZA2b42NQBRGYCGBfLqVMlVfWDgLFyXmKzSYSSmmXfiCAHqx_J31NWA7Jl3k6NQYUTIjdMi8zwJ1SeKABr4TiQTQsdmKZzb6-s=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/BnwMVrwEs2QavQr4xP2o-RqU1V7JnFRFM6GLrl29QNZA2b42NQBRGYCGBfLqVMlVfWDgLFyXmKzSYSSmmXfiCAHqx_J31NWA7Jl3k6NQYUTIjdMi8zwJ1SeKABr4TiQTQsdmKZzb6-s=w600-h315-p-k" /> </a>
 
 
-## Cassiano Gatto's profile (in construction)
+## Cassiano Gatto's profile (in construction )
 
 Hi!! My name is Cassiano AFR Gatto. I am a Biologist with over two decades of experience in science making, which includes experiment design, field work, software development, data analysis, and scientific communication. I'm particularly interested in the fields of Ornithology, Ecology, Environmental Evaluation and Management, Biogeography, Statistics, and Data Analysis. A big fan of [good] music and a guitar player who loves improvisation (scales and arpeggios addicted 🙃).
 
