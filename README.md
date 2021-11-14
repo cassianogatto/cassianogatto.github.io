@@ -32,7 +32,7 @@ Title: _Comparação de nichos ecológicos em linhagens evolutivas de _Chiroxiph
 _(Ecological niche comparison between evolutive lineages of _Chiroxiphia _with emphasis in the complex _Chiroxiphia pareola)_
 Supervisor: Marina Anciães, Ph.D.
 
-2007 - 2009 - 
+2007 - 2009  
 **Master degree in Zoology at Universidade Estadual Santa Cruz - UESC, Ilhéus-Itabuna, Bahia, Brazil**
 Dissertation: _Influência da escala espacial e estrutura da paisagem sobre a comunidade de Aves de Mata Atlântica no extremo sul da Bahia_ _(Influence of spatial scale and landscape structure over the Atlantic Forest Bird community of southernmost Bahia state_  
 Adviser: Sofia Campiolo, Ph.D.
@@ -48,18 +48,24 @@ Title: _Diferenças estruturais nas avifaunas de sub-bosque de três ambientes d
 estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Paraná_ _(Structural differences in three avian understory communities in semi-deciduous forest in Rio Guarani Ecological Station)_  
 Adviser: Rodney Cavichioli, Ph.D.
 
-
 ## Project management
 
-## Field expeditions
-201?? Tapajós
+## Field expeditions & Environmental consulting
+2017 Mamirauá
+2016 Ambientare
+2012 - 2014  
+**Study of Environmental Impact - CNEC Engenharia**  
+_Programa de monitoramento dos efeitos da UHE de São Luís sobre a avifauna do Rio Tapajós e ambientes associados_
+
+
 
 201?? Sisbiota
 
 2011 -2012
-Madeira
+Fundação Amazônica de Defesa da Biosfera (atual Fundação Vitória Amazônica - FVA) e Instituto Nacional de Pesquisas da Amazônia - INPA
+Monitoramento dos efeitos da implementação da UHE de Santo Antônio sobre a avifauna do Rio Madeira
 
-## Environmental consulting
+## 
 
 
 
