@@ -14,10 +14,20 @@ Hi!! My name is Cassiano AFR Gatto. I am a Biologist with over two decades of ex
 2015 - 2021 - 
 **PhD. in Ecology at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**
 Thesis: _Padrões de distribuições compartilhadas entre Aves amazônicas: inferências biogeográficas baseadas em congruência espacial_
-2015 - 2021 - 
 
+2018
 **PhD. Sandwich at American Museum of Natural History  AMNH, New York, NY, USA**
 Project title: _Biogeography of Amazonian Birds_
+
+201?? Tapajós
+
+201?? Sisbiota
+
+2011 -2012
+Madeira
+
+2011 - 2012
+**Visiting Research Scholarship (BEV) at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil
 
 2007 - 2009 - 
 **Master degree in Zoology at Universidade Estadual Santa Cruz - UESC, Ilhéus-Itabuna, Bahia, Brazil**
@@ -25,8 +35,6 @@ Dissertation: _Influência da escala espacial e estrutura da paisagem sobre a co
 
 1999 - 
 **Post Graduate Course Biogeography And Speciation at O. Alexander Koenig Research Institute And Museum Of Zoology, A.K.R.I.M.Z., Bonn, Germany**
-
-
 
 1995 - 2000 - 
 **Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**
