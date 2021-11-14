@@ -2,23 +2,56 @@
 title: Cassiano Gatto's homepage
 description: Bookmark this to keep an eye on my project updates!
 --->
-
+<!---
 <a href="https://lh3.googleusercontent.com/BnwMVrwEs2QavQr4xP2o-RqU1V7JnFRFM6GLrl29QNZA2b42NQBRGYCGBfLqVMlVfWDgLFyXmKzSYSSmmXfiCAHqx_J31NWA7Jl3k6NQYUTIjdMi8zwJ1SeKABr4TiQTQsdmKZzb6-s=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/BnwMVrwEs2QavQr4xP2o-RqU1V7JnFRFM6GLrl29QNZA2b42NQBRGYCGBfLqVMlVfWDgLFyXmKzSYSSmmXfiCAHqx_J31NWA7Jl3k6NQYUTIjdMi8zwJ1SeKABr4TiQTQsdmKZzb6-s=w600-h315-p-k" /> </a>
+--->
 
+<a href="https://lh3.googleusercontent.com/9-jz2b_uLvRmLu1OiFRuCNq0n5x2hIyf3yenqgpV4mjqAGS4bYtl5bFBiYQePXRO3YEP_TnRU2eNSd0LjwbfmljE7UizstbWXZoBgkpsBzKJ_jEfvYxFp7oJZQq7OhqsvnWdtmGL8wo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/9-jz2b_uLvRmLu1OiFRuCNq0n5x2hIyf3yenqgpV4mjqAGS4bYtl5bFBiYQePXRO3YEP_TnRU2eNSd0LjwbfmljE7UizstbWXZoBgkpsBzKJ_jEfvYxFp7oJZQq7OhqsvnWdtmGL8wo=w600-h315-p-k" /> </a>
+# Cassiano Gatto's profile (in construction )
 
-## Cassiano Gatto's profile (in construction )
+### Hi!! My name is Cassiano AFR Gatto. I am a Biologist with over two decades of experience in science and environmental assessment, including experiment design, field work, software development, data analysis, and scientific communication. I'm particularly interested in the fields of Ornithology, Ecology, Biogeography, and Environmental Evaluation and Management. A big fan of music, natural sounds, and a guitar player who loves to improvise 🙃.
 
-Hi!! My name is Cassiano AFR Gatto. I am a Biologist with over two decades of experience in science making, which includes experiment design, field work, software development, data analysis, and scientific communication. I'm particularly interested in the fields of Ornithology, Ecology, Environmental Evaluation and Management, Biogeography, Statistics, and Data Analysis. A big fan of [good] music and a guitar player who loves improvisation (scales and arpeggios addicted 🙃).
-
-### Academic Formation
-2015 - 2021 - 
-**PhD. in Ecology at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**
+<a href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" width="150px"
+style="align: right" /> </a>
+## Academic Formation
+  
+2015 - 2021  
+**PhD. in Ecology at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**  
 Thesis: _Padrões de distribuições compartilhadas entre Aves amazônicas: inferências biogeográficas baseadas em congruência espacial_
+_(Shared distribution patterns among Amazonian Birds: biogeographical inferences based on spatial congruence)_  
+Adviser: Mario Cohn-Haft, Ph.D.  
+  
+2018  
+**Sandwich [PhD.] at American Museum of Natural History  AMNH, New York, NY, USA**  
+Project title: _Biogeography of Amazonian Birds_  
+Supervisor: Joel Cracraft, Ph.D.    
 
-2018
-**PhD. Sandwich at American Museum of Natural History  AMNH, New York, NY, USA**
-Project title: _Biogeography of Amazonian Birds_
+2011 - 2012  
+**Visiting Research Scholarship (BEV-PCI) at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**  
+Title: _Comparação de nichos ecológicos em linhagens evolutivas de _Chiroxiphia _com ênfase no complexo _Chiroxiphia pareola_
+_(Ecological niche comparison between evolutive lineages of _Chiroxiphia _with emphasis in the complex _Chiroxiphia pareola)_
+Supervisor: Marina Anciães, Ph.D.
 
+2007 - 2009 - 
+**Master degree in Zoology at Universidade Estadual Santa Cruz - UESC, Ilhéus-Itabuna, Bahia, Brazil**
+Dissertation: _Influência da escala espacial e estrutura da paisagem sobre a comunidade de Aves de Mata Atlântica no extremo sul da Bahia_ _(Influence of spatial scale and landscape structure over the Atlantic Forest Bird community of southernmost Bahia state_  
+Adviser: Sofia Campiolo, Ph.D.
+
+1999  
+**Post Graduate Course at Alexander Koenig Research Institute and Museum Of Zoology, AKRIMZ, Bonn, Germany**  
+Title:_ Biogeography and Speciation of Birds of South America_  
+Supervisor: Karl-Ludwig Schuchmann, Ph.D.  
+  
+1995 - 2000  
+**Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**
+Title: _Diferenças estruturais nas avifaunas de sub-bosque de três ambientes de floresta
+estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Paraná_ _(Structural differences in three avian understory communities in semi-deciduous forest in Rio Guarani Ecological Station)_  
+Adviser: Rodney Cavichioli, Ph.D.
+
+
+## Project management
+
+## Field expeditions
 201?? Tapajós
 
 201?? Sisbiota
@@ -26,22 +59,7 @@ Project title: _Biogeography of Amazonian Birds_
 2011 -2012
 Madeira
 
-2011 - 2012
-**Visiting Research Scholarship (BEV) at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil
-
-2007 - 2009 - 
-**Master degree in Zoology at Universidade Estadual Santa Cruz - UESC, Ilhéus-Itabuna, Bahia, Brazil**
-Dissertation: _Influência da escala espacial e estrutura da paisagem sobre a comunidade de Aves de Mata Atlântica no extremo sul da Bahia_
-
-1999 - 
-**Post Graduate Course Biogeography And Speciation at O. Alexander Koenig Research Institute And Museum Of Zoology, A.K.R.I.M.Z., Bonn, Germany**
-
-1995 - 2000 - 
-**Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**
-Title: _Título: Diferenças estruturais nas avifaunas de sub-bosque de três ambientes de floresta
-estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Paraná_
-
-
+## Environmental consulting
 
 
 
