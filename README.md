@@ -12,6 +12,10 @@ description: Bookmark this to keep an eye on my project updates!
 ### Hi !! I am a Biologist with over two decades of experience in science and environmental assessment, including experiment design, field work, software development, data analysis, and scientific communication. I'm particularly interested in the fields of Ornithology, Ecology, Biogeography, and Environmental Evaluation and Management. Born in Southern Brazil, I started my studies in the Atlantic Forest and Cerrado; later I lived in the Northeast, where I met the Caatinga and the many distinct Atlantic Forest physiognomies, such as Tabuleiro, Semi-deciduous, and Deciduous forests; in the last decade I've been living in the middle of Amazon, Manaus, which is the perfect basis to expand my field experience here. I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise 🙃.
 
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px" /> </a>
+
+## Nowadays
+I just finished my Ph.D. in which I developed a new method to biogeographic analysis of congruent species distributions (SCAN - PLoS ONE 16(5): e0245818). I'm currently updating the code to make the analysis in a network environment based on igraph and tidygraph.
+
 ## Academic Formation
   
 2015 - 2021  
@@ -48,6 +52,16 @@ estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Para
 Advisor: Rodney Cavichioli, Ph.D.
 
 ## Project management
+2006-2008  
+**SAVE Brasil - BirdLife International, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
+Coordination and execution of the evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.  
+With: Pedro Develey, Ph.D., and Jaqueline Goerk
+  
+2006-2008  
+**SAVE Brasil - BirdLife International, Fundação Biodiversitas/ CEPAN, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
+Coordination and execution of the evaluation of the populational status of the endemic Red-billed Curassow (_Crax blumenbachii_). In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.
+With: Pedro Develey, Ph.D., and Jaqueline Goerk
+
 
 ## Field expeditions & Environmental consulting
 2017 Mamirauá
