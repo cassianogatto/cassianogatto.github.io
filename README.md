@@ -18,7 +18,7 @@ description: Bookmark this to keep an eye on my project updates!
 **PhD. in Ecology at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**  
 Thesis: _Padrões de distribuições compartilhadas entre Aves amazônicas: inferências biogeográficas baseadas em congruência espacial_
 _(Shared distribution patterns among Amazonian Birds: biogeographical inferences based on spatial congruence)_  
-Adviser: Mario Cohn-Haft, Ph.D.  
+Advisor: Mario Cohn-Haft, Ph.D.  
   
 2018  
 **Sandwich [PhD.] at American Museum of Natural History  AMNH, New York, NY, USA**  
@@ -28,13 +28,13 @@ Supervisor: Joel Cracraft, Ph.D.
 2011 - 2012  
 **Visiting Research Scholarship (BEV-PCI) at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**  
 Title: _Comparação de nichos ecológicos em linhagens evolutivas de _Chiroxiphia _com ênfase no complexo _Chiroxiphia pareola_
-_(Ecological niche comparison between evolutive lineages of _Chiroxiphia _with emphasis in the complex _Chiroxiphia pareola)_
+_(Ecological niche comparison between evolutive lineages of _Chiroxiphia _with emphasis in the complex _Chiroxiphia pareola)_  
 Supervisor: Marina Anciães, Ph.D.
 
 2007 - 2009  
 **Master degree in Zoology at Universidade Estadual Santa Cruz - UESC, Ilhéus-Itabuna, Bahia, Brazil**
 Dissertation: _Influência da escala espacial e estrutura da paisagem sobre a comunidade de Aves de Mata Atlântica no extremo sul da Bahia_ _(Influence of spatial scale and landscape structure over the Atlantic Forest Bird community of southernmost Bahia state_  
-Adviser: Sofia Campiolo, Ph.D.
+Advisor: Sofia Campiolo, Ph.D.
 
 1999  
 **Post Graduate Course at Alexander Koenig Research Institute and Museum Of Zoology, AKRIMZ, Bonn, Germany**  
@@ -45,7 +45,7 @@ Supervisor: Karl-Ludwig Schuchmann, Ph.D.
 **Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**
 Title: _Diferenças estruturais nas avifaunas de sub-bosque de três ambientes de floresta
 estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Paraná_ _(Structural differences in three avian understory communities in semi-deciduous forest in Rio Guarani Ecological Station)_  
-Adviser: Rodney Cavichioli, Ph.D.
+Advisor: Rodney Cavichioli, Ph.D.
 
 ## Project management
 
