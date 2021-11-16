@@ -55,13 +55,13 @@ Advisor: Rodney Cavichioli, Ph.D.
 
 2005-2006  
 **SAVE Brasil - BirdLife International, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
-Coordination and execution of the evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.  
+Coordination and execution. Title: _ of the evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.  
 With: Pedro Develey, Ph.D., and Jaqueline Goerk
   
 2005-2006
-**SAVE Brasil - BirdLife International, Fundação Biodiversitas/ CEPAN, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
-Avaliação populacional, parâmetros demográficos e associações de habitat de Crax blumenbachii na região da Reserva Biológica de Una, Bahia_ _(Population evaluation, demographic parameters, and habitat associations of _Crax blumenbachii _in the Una Biological Reserve, Bahia)_  
-Coordination and execution of the evaluation of the populational status of the endemic Red-billed Curassow (_Crax blumenbachii_). In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.
+**SAVE Brasil - Sociedade para a Conservação das Aves do Brasil, BirdLife International, Fundação Biodiversitas/ CEPAN, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
+Coordination and execution. Title: _Avaliação populacional, parâmetros demográficos e associações de habitat de Crax blumenbachii na região da Reserva Biológica de Una, Bahia_ _(Population evaluation, demographic parameters, and habitat associations of _Crax blumenbachii _in the Una Biological Reserve, Bahia)_  
+In this project, Atlantic Forest remnants in southern Bahia were searched for unknown populations, which were then sampled using quantitative field methods. This report supported all management activities related to this rare species.
 With: Pedro Develey, Ph.D., and Jaqueline Goerk
 
 2004 - 2005  
@@ -76,16 +76,21 @@ _Programa de monitoramento dos efeitos da UHE de São Luís sobre a avifauna do 
 
 
 
-201?? Sisbiota
+2013  
+
 
 2011 -2012
-Fundação Amazônica de Defesa da Biosfera (atual Fundação Vitória Amazônica - FVA) e Instituto Nacional de Pesquisas da Amazônia - INPA
+**Fundação Amazônica de Defesa da Biosfera (atual Fundação Vitória Amazônica - FVA) e Instituto Nacional de Pesquisas da Amazônia - INPA**  
 Monitoramento dos efeitos da implementação da UHE de Santo Antônio sobre a avifauna do Rio Madeira
 
 ## 
 
 
-
+2013 - 2014  
+**Instituto Nacional de Pesquisas da Amazônia - INPA, Universidade Federal do Amazonas - UFAM, SisBiota**
+Projeto: Rede de pesquisa para ampliação do conhecimento sobre a biodiversidade de vertebrados da Amazônia brasileira com aplicações
+sobre seu uso e conservação. Rede BioPHAM. Floresta Nacional do Tapajós, Reserva Extrativista Tapajós-Arapiuns, Reserva Biológica do Rio Trombetas.
+Coordenation: Izeni Pires Farias, Ph.D.  
 
 
 
