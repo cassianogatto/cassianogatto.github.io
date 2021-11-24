@@ -46,7 +46,7 @@ Supervisor: Joel Cracraft, Ph.D.
 2011 - 2012  
 <!-- _Comparação de nichos ecológicos em linhagens evolutivas de _Chiroxiphia _com ênfase no complexo _Chiroxiphia pareola_ -->
 **Visiting Research Scholarship (BEV-PCI) at Instituto Nacional de Pesquisas da Amazônia - INPA, Manaus, Amazonas, Brazil**  
-Project:_Ecological niche comparison between evolutive lineages of _Chiroxiphia _with emphasis in the complex _Chiroxiphia pareola_  
+Project: _Ecological niche comparison between evolutive lineages of_ Chiroxiphia _with emphasis in the complex_ Chiroxiphia pareola  
 Supervisor: Marina Anciães, Ph.D.  
 
 2007 - 2009  
