@@ -27,7 +27,7 @@ I'm trying to exchange my interests and activities, moving beyond pure scientifi
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
-Togheter with the official Brazilian Research Council ([Plataforma Lattes - CNPq](http://lattes.cnpq.br/2098095098115674)), I am using this 'space' to list and organize my past academic and professional works. So, if you are not interested in an 'old-style', detailed and boring curriculum, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
+Togheter with the official Brazilian Research Council's CV ([Lattes - CNPq](http://lattes.cnpq.br/2098095098115674)), I am using this 'space' to list and organize my past academic and professional works. So, if you are not interested in an 'old-style', detailed and boring curriculum, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
 
 
 ## Academic Formation
