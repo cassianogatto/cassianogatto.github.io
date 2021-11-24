@@ -16,15 +16,20 @@ chapeu sol Marimaruá sorriso -->
 
 # Cassiano Gatto
 ### Hi there !!
-#### I am a biologist who loves nature, science, and environmental sciences, with particular interest in ecology, biogeography, and ecosystem evaluation and management. Early in my career I studied sexual selection in a lek species, endangered species of birds and primates, landscape effects over bird communities, and made lots of inventories and monitoring counts in scientific collecting expeditions, impact studies, and area assessments for conservation purposes. Beyond experimental design, field work, data analysis, and scientific communication, I'm also learning how to create software to materialize my ideas. In my Ph.D., for example, I used R to develop a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818)), which I'm updating to a network environment. I started my studies in the Southern Atlantic Forest (and Cerrado),  met the Caatinga in the Northeastearn Brazil, and have been living in Manaus, in the heart of Amazon, for a decade now. Here, in the largest forest with the greatest diversity, the largest river in the world (Amazon) meets the largest dark-water river (Negro - see picture below). I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise 🙃.
+#### I am a biologist who loves nature, science, ecology, biogeography, and ecosystem evaluation and management. Early in my career I studied sexual selection in a lek species, endangered birds and primates, landscape effects over bird communities, and made lots of inventories and monitoring counts in scientific collecting expeditions, impact studies, and area assessments for conservation purposes. Beyond experimental design, field work, data analysis, and scientific communication, I'm also learning how to create software to materialize my ideas. In my Ph.D., for example, I used R to develop a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818)), which I'm updating to a network environment ([here](https://github.com/cassianogatto/SCAN_to_GRAPH)). I started my studies in Atlantic Forest (and Cerrado) of South Brazil, met the Caatinga in the Northeast, and have been living in Manaus (North), in the heart of Amazon, for a decade by now. Here, the largest forest harbors the greatest diversity, and the largest river (Amazon) meets the largest dark-water river (Negro - see picture below). I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise 🙃.
 
 <a href="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w600-h290-p-k"
 width = "1100px" height = "130px" /> </a>
 
 ## Nowadays
-I'm exchanging my interests moving beyond pure scientific and ornithological themes towards activities capable to couple science to the management of natural resourcees by traditional Amazonian populations. 
+I'm trying to exchange my interests and activities, moving beyond pure scientific and ornithological themes to activities in which science background can be applied to the management and rational exploitation of natural resourcees, in particular those related to endangered species and environments, and natural management by traditional Amazonian populations. 
 
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
+
+## Curriculum Vitae
+Togheter with the official Brazilian Research Council ([Plataforma Lattes - CNPq](http://lattes.cnpq.br/2098095098115674), I am taking the opportunity to use this 'space' to list and organize my past academic and professional works. If you are not interested in an 'old-style', detailed and boring curriculum, you should consider stop reading it! ;-)  
+
+
 ## Academic Formation
 
 2015 - 2021  
