@@ -16,18 +16,18 @@ chapeu sol Marimaruá sorriso -->
 
 # Cassiano Gatto
 ### Hi there !!
-#### I am a biologist who loves nature, science, ecology, biogeography, and ecosystem evaluation and management. Earlier in my career I studied sexual selection in a lekking species, endangered endemic birds and primates, landscape effects over forest bird communities, and made lots of inventories and monitoring counts in scientific collecting expeditions, impact studies, and area assessments for conservation purposes. Beyond experimental design, field work, data analysis, and scientific communication, I'm also learning how to create software to materialize my ideas. In my Ph.D., for example, I used [R](https://cran.r-project.org/) to develop a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818)), which I'm updating to a network environment ([here](https://github.com/cassianogatto/SCAN_to_GRAPH)). I started my studies in the Atlantic Forest (South and Northeast of Brazil), met the Cerrado and Caatinga drier environments in the Northeast, and have been living in the heart of Amazon, in Manaus, for a decade by now. Here, the largest forest harbors the an amazing diversity in life forms and cultural heritages, and the largest river (Amazon) meets the largest dark-water river (Negro - see this near-home picture below). This is the holy-grail for a biologist! I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise 🙃.
+#### I am a biologist who loves nature, science, ecology, biogeography, and ecosystem evaluation and management. Earlier in my career I studied sexual selection in a lekking species, endangered endemic birds and primates, landscape effects over forest bird communities, and made lots of inventories and monitoring counts in scientific collecting expeditions, impact studies, and area assessments for conservation purposes. Beyond experimental design, field work, data analysis, and scientific communication, I'm also learning how to create software to materialize my ideas. In my Ph.D., for example, I used [R](https://cran.r-project.org/) to develop a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818)), which I'm updating to a network environment ([here](https://github.com/cassianogatto/SCAN_to_GRAPH)). I started my studies in the Atlantic Forest (South and Northeast of Brazil), met the Cerrado and Caatinga drier environments in the Northeast, and have been living in the heart of Amazon, in Manaus, for a decade by now. Here, diverse environments, such as forests and flooded forests, harbor an amazing diversity in life forms and cultural heritages. Here, the world's largest river (Amazon) meets the largest dark-water river (Negro - see the picture of my "backyard" below). A holy-grail for any biologist! I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise brazilian-jazz tunes 🙃.
 
 <a href="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w600-h290-p-k"
 width = "1100px" height = "130px" /> </a>
 
 ## Nowadays
-I'm trying to exchange my interests and activities, moving beyond pure scientific and ornithological themes to activities in which science background can be applied to the management and rational exploitation of natural resources, in particular those related to endangered species and environments, and natural management by traditional Amazonian populations. 
+I'm moving beyond pure scientific and ornithological themes to activities in which science background can be applied to the management and rational exploitation of natural resources, in particular those related to endangered species and environments, sustainable tourism activities, and natural management by traditional Amazonian populations. 
 
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
-In paralel to the official Brazilian Research Council's CV ([Lattes - CNPq](http://lattes.cnpq.br/2098095098115674)), I am using this 'space' to list and organize my past academic and professional works. So, if you are not interested in an 'old-style', detailed and boring curriculum, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
+In paralel to the official Brazilian Research Council's CV ([Lattes - CNPq](http://lattes.cnpq.br/2098095098115674)), I am using this 'space' to list and organize my past academic and professional works. So, if you are not interested in a detailed curriculum, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
 
 
 ## Academic Formation
@@ -70,23 +70,26 @@ Advisor: Rodney Cavichioli, Ph.D.
   
 2005-2006  
 **SAVE Brasil - BirdLife International, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
-Coordination and execution. Project: _ Geographical distribution and evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). In this project, previously unknown populations living in Atlantic Forest remnants in southern Bahia were described and sampled using quantitative field methods. This report described ecological requirements of the species and supported subsequent management strategies related to this rare bird [here](http://datazone.birdlife.org/species/factsheet/bahia-tapaculo-eleoscytalopus-psychopompus/text).  
-With: Pedro Develey, Ph.D., and Jaqueline Goerk
+Coordination and execution. Project: Geographical distribution and evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). Previously unknown populations living in Atlantic Forest remnants in southern Bahia were described and sampled using quantitative field methods. This report described ecological requirements of the species and supported subsequent management strategies related to this rare bird [here](http://datazone.birdlife.org/species/factsheet/bahia-tapaculo-eleoscytalopus-psychopompus/text).  
+With: Pedro Develey and Jaqueline Goerk
   
 2005-2006
 **SAVE Brasil - Sociedade para a Conservação das Aves do Brasil, BirdLife International, Fundação Biodiversitas/ CEPAN, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
-Coordination and execution. Title: _Avaliação populacional, parâmetros demográficos e associações de habitat de Crax blumenbachii na região da Reserva Biológica de Una, Bahia_ _(Population evaluation, demographic parameters, and habitat associations of _Crax blumenbachii _in the Una Biological Reserve, Bahia)_  
+Coordination and execution. Title: Population evaluation, demographic parameters, and habitat associations of _Crax blumenbachii_ in the Una Biological Reserve, Bahia (Avaliação populacional, parâmetros demográficos e associações de habitat de Crax blumenbachii na região da Reserva Biológica de Una, Bahia) 
 In this project, I applied quantitative census to known populations of the [Red-Billed Curassow](http://datazone.birdlife.org/species/factsheet/red-billed-curassow-crax-blumenbachii) in southern Bahia, and searched for unknown populations in Atlantic Forest remnants. The results of this project can be seen [here](https://journals.sfu.ca/ornneo/index.php/ornneo/article/view/513).
-With: Pedro Develey, Ph.D., and Jaqueline Goerk
+With: Pedro Develey and Jaqueline Goerk
 
 2004 - 2005  
-**Instituto de Estudos Socioambientais - IESB, 
+**Instituto de Estudos Socioambientais - IESB, Consevartion International - Brazil, Probio**  
+Execution. Title: Demographic evaluation of the Yellow-breasted Capuchin Monkey _Sapajus (Cebus) xanthosternos_ and strategic proposal for management and conservation of the species (Avaliação das populações do macaco-prego-do-peito-amarelo [Cebus xanthosternos] e proposta de estratégia para manejo e conservação da espécie; Kierulf et al. 2005). 
+
+(2) Execução e responsabilidade técnica em três Planos de manejo participativo de três RPPN no Corredor Central da Mata Atlântica: RPPN Ecoparque de Una, Una, Bahia; RPPN Salto Apepiqui, Ilhéus, Bahia; RPPN Água Branca, Valença, Bahia; (3) Levantamentos avifaunísticos nos municípios de Mascote e Canavieiras no projeto Plano de Ação para a Costa do Cacau IESB/ Conservação Internacional.
 
 ## Field expeditions & Environmental consulting
 2017 Mamirauá
 2016 Ambientare
 2012 - 2014  
-**Study of Environmental Impact - CNEC Engenharia**  
+**CNEC Engenharia**  
 _Programa de monitoramento dos efeitos da UHE de São Luís sobre a avifauna do Rio Tapajós e ambientes associados_
 
 Rio Guarani!
@@ -109,6 +112,10 @@ sobre seu uso e conservação. Rede BioPHAM. Floresta Nacional do Tapajós, Rese
 Coordenation: Izeni Pires Farias, Ph.D.  
 
 
+
+## References
+
+Kierulff, M.C.M.; Santos, G.R.; Canale, G.R.; Carvalho, C.E.G.; Cassano, C.R.; Gouveia, P.S.; Gatto, C.A.F.R.; Araújo, M.; Vila Nova, P.; Marques, A.C.; Santos, P.S. & Pádua, J.C. 2005b. Avaliação das populações do macaco-prego-do-peito-amarelo (Cebus xanthosternos) e proposta de estratégia para manejo e conservação da espécie. Relatório técnico. IESB (Instituto de Estudos Sócio-Ambientais do Sul da Bahia) e CI (Conservation International do Brasil). 86p.
 
 ```markdown
 
