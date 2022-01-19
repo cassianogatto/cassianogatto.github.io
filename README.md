@@ -115,10 +115,12 @@ Coordenation: Izeni Pires Farias, Ph.D.
 
 ## References
 
+Canale, G.R.; Peres, C.A.; Guidorizzi, C.E.; Gatto, C.A.F.; Kierulff, M.C.M. 2012. Pervasive Defaunation of Forest Remnants in a Tropical Biodiversity Hotspot. PLoS ONE, 7 (8): e41671. doi:10.1371/journal.pone.0041671
+
 Kierulff, M.C.M.; Santos, G.R.; Canale, G.R.; Carvalho, C.E.G.; Cassano, C.R.; Gouveia, P.S.; Gatto, C.A.F.R.; Araújo, M.; Vila Nova, P.; Marques, A.C.; Santos, P.S. & Pádua, J.C. 2005b. Avaliação das populações do macaco-prego-do-peito-amarelo (Cebus xanthosternos) e proposta de estratégia para manejo e conservação da espécie. Relatório técnico. IESB (Instituto de Estudos Sócio-Ambientais do Sul da Bahia) e CI (Conservation International do Brasil). 86p.
 
 ```markdown
-
+What happens here?
 ```
 
 
@@ -126,7 +128,7 @@ Kierulff, M.C.M.; Santos, G.R.; Canale, G.R.; Carvalho, C.E.G.; Cassano, C.R.; G
 
 
 
-
+<!--
 
 You can use the [editor on GitHub](https://github.com/cassianogatto/cassianogatto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
