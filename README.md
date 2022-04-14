@@ -8,7 +8,7 @@ description: Bookmark this to keep an eye on my project updates!
 <!-- fotos
 chapeu sol Marimaruá sorriso -->
 <a href="https://lh3.googleusercontent.com/2b2ONcUD6ni8YO4FTG5FldviyWoji9EGpEV1vGzw8xZ3OmNK3khcthwRX72VpqAHJSaEC0TGDnBrf1Me7ohmE2-p1wzRGG-Xp-mFnfkDIms6ZFU6Q18livUG7J-zuD1r3vjdYJI0Aic=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/2b2ONcUD6ni8YO4FTG5FldviyWoji9EGpEV1vGzw8xZ3OmNK3khcthwRX72VpqAHJSaEC0TGDnBrf1Me7ohmE2-p1wzRGG-Xp-mFnfkDIms6ZFU6Q18livUG7J-zuD1r3vjdYJI0Aic=w600-h315-p-k"
- width="400px"/> </a>
+ width="450px"/> </a>
 
 <!-- 
 <a align="center"  href="https://lh3.googleusercontent.com/9-jz2b_uLvRmLu1OiFRuCNq0n5x2hIyf3yenqgpV4mjqAGS4bYtl5bFBiYQePXRO3YEP_TnRU2eNSd0LjwbfmljE7UizstbWXZoBgkpsBzKJ_jEfvYxFp7oJZQq7OhqsvnWdtmGL8wo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/9-jz2b_uLvRmLu1OiFRuCNq0n5x2hIyf3yenqgpV4mjqAGS4bYtl5bFBiYQePXRO3YEP_TnRU2eNSd0LjwbfmljE7UizstbWXZoBgkpsBzKJ_jEfvYxFp7oJZQq7OhqsvnWdtmGL8wo=w600-h315-p-k" width="350px"/> </a>
@@ -16,10 +16,11 @@ chapeu sol Marimaruá sorriso -->
 
 # Cassiano Gatto
 ### Hi there !!
-#### I am a biologist who loves nature, science, ecology, biogeography, and ecosystem evaluation and management. Earlier in my career I studied sexual selection in a lekking species, endangered endemic birds and primates, landscape effects over forest bird communities, and made lots of inventories and monitoring counts in scientific collecting expeditions, impact studies, and area assessments for conservation purposes. Beyond experimental design, field work, data analysis, and scientific communication, I'm also learning how to create software to materialize my ideas. In my Ph.D., for example, I used [R](https://cran.r-project.org/) to develop a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818)), which I'm updating to a network environment ([here](https://github.com/cassianogatto/SCAN_to_GRAPH)). I started my studies in the Atlantic Forest (South and Northeast of Brazil), met the Cerrado and Caatinga drier environments in the Northeast, and have been living in the heart of Amazon, in Manaus, for a decade by now. Here, diverse environments, such as forests and flooded forests, harbor an amazing diversity in life forms and cultural heritages. Here, the world's largest river (Amazon) meets the largest dark-water river (Negro - see the picture of my "backyard" below). A holy-grail for any biologist! I'm also a big fan of music, natural sounds, and a guitar player who loves to improvise brazilian-jazz tunes 🙃.
+#### I'm a biologist - primarily interested in ecological interactions between organisms, environments, and humans in tropical South America! Here, in the Amazon, I did my doctorate on the biogeography of endemic birds. For this I have developed a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818), which I am upgrading to a network environment [here](https://github.com/cassianogatto/SCAN_to_GRAPH)). Early in my career, I studied sexual selection in the lekking Blue-manakin, ecology and conservation of some endangered endemic birds and primates, effects of landscape on forest communities, and did many inventories, collections of specimens on scientific expeditions, and evaluated both the potential for conservation in many regions, as well as environmental impacts caused by man in others. I have developed studies in the Atlantic Forest (South and Northeast of Brazil), in the driest environments of the Cerrado and Caatinga, and I have been studying and living in the Amazon for a decade. Here, diverse and complementary environments harbor an incomparable diversity of life forms and cultural heritages. BTW, I also like to improvise jazz and Brazilian tunes on my guitar. Let's jam?! 🙃
 
 <a href="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w600-h290-p-k"
 width = "1100px" height = "130px" /> </a>
+The world's largest river (Amazon) meets the largest dark-water river (Negro) here, in Manaus.
 
 ## Nowadays
 I'm moving beyond pure scientific and ornithological themes to activities in which science background can be applied to the management and rational exploitation of natural resources, in particular those related to endangered species and environments, sustainable tourism activities, and natural management by traditional Amazonian populations. 
@@ -27,8 +28,8 @@ I'm moving beyond pure scientific and ornithological themes to activities in whi
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
-In paralel to the official Brazilian Research Council's CV ([Lattes - CNPq](http://lattes.cnpq.br/2098095098115674)), I am using this 'space' to list and organize my past academic and professional works. So, if you are not interested in a detailed curriculum, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
-
+[Here](https://www.semanticscholar.org/author/Cassiano-A-F-R-Gatto/40982688) you can find a summary view of my scientific publications. If you are not interested in a detailed profile, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
+My full CV in the official Brazilian Research Council (Lattes - CNPq) is [here](http://lattes.cnpq.br/2098095098115674)). In the following lines you can find some of my past academic and professional achievements.
 
 ## Academic Formation
 
