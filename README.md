@@ -57,20 +57,20 @@ Dissertation: _Influence of spatial scale and landscape structure over the Atlan
 Advisor: Sofia Campiolo, Ph.D.  
 
 1999  
-**Post Graduate Course at Alexander Koenig Research Institute and Museum Of Zoology - AKRIMZ, DAAD, Bonn, Germany**  
+**Post Graduate Course at Alexander Koenig Research Institute and Museum Of Zoology - AKRIMZ, DAAD, Bonn, Germany** _
 Course:_ Biogeography and Speciation of Birds of South America_  
 Supervisor: Karl-Ludwig Schuchmann, Ph.D.  
 
 1995 - 2000  
 <!-- _Diferenças estruturais nas avifaunas de sub-bosque de três ambientes de floresta estacional semidecidual na estação ecológica do Rio Guarani, sudoeste do Paraná_  -->
-**Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**  
+**Graduation in Biology at Universidade Federal do Paraná - UFPR, Curitiba, Paraná, Brazil**  _
 Title: _(Structural differences in three avian understory communities in semi-deciduous forest in Rio Guarani Ecological Station)_  
 Advisor: Rodney Cavichioli, Ph.D.
 
 ## Project (Management and Execution, Environmental Consulting, NGO )  
   
 2005-2006  
-**SAVE Brasil - BirdLife International, Instituto de Estudos Socioambientais do Sul da Bahia - IESB**  
+**SAVE Brasil - BirdLife International, Instituto de Estudos Socioambientais do Sul da Bahia - IESB** _
 Coordination and execution. Project: Geographical distribution and evaluation of the populational status of the endemic Bahian-Tapaculo (_Eleoscytalopus psychopompus_). Previously unknown populations living in Atlantic Forest remnants in southern Bahia were described and sampled using quantitative field methods. This report described ecological requirements of the species and supported subsequent management strategies related to this rare bird [here](http://datazone.birdlife.org/species/factsheet/bahia-tapaculo-eleoscytalopus-psychopompus/text).  
 With: Pedro Develey and Jaqueline Goerk
   
