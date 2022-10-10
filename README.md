@@ -28,7 +28,7 @@ I'm moving beyond pure scientific and ornithological themes to activities in whi
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
-[Here](https://www.semanticscholar.org/author/Cassiano-A-F-R-Gatto/40982688) you can find a summary view of my scientific publications. If you are not interested in a detailed profile, you should consider stop reading it and contact me at cassianogatto@gmail.com ;-)  
+[Here](https://www.semanticscholar.org/author/Cassiano-A-F-R-Gatto/40982688) you can find a summarized view of my scientific publications. If you want to skip the detailed profile but liked what you've seem by now, you should consider contacting me at cassianogatto@gmail.com ;-)  
 My full CV in the official Brazilian Research Council (Lattes - CNPq) is [here](http://lattes.cnpq.br/2098095098115674)). In the following lines you can find some of my past academic and professional achievements.
 
 ## Academic Formation
@@ -115,7 +115,72 @@ Coordenation: Izeni Pires Farias, Ph.D.
 
 
 ## References
+[Google Scholar](see https://scholar.google.com/citations?user=vYaCyh8AAAAJ&hl=en)
 
+	Pervasive defaunation of forest remnants in a tropical biodiversity hotspot
+GR Canale, CA Peres, CE Guidorizzi, CAF Gatto, MCM Kierulff
+Public Library of Science 7 (8), e41671
+	273	2012
+First record of tool use by wild populations of the yellow‐breasted capuchin monkey (Cebus xanthosternos) and new records for the bearded capuchin (Cebus libidinosus)
+GR Canale, CE Guidorizzi, MCM Kierulff, CAFR Gatto
+American Journal of Primatology: Official Journal of the American Society of …
+	109	2009
+ATLANTIC‐PRIMATES: a dataset of communities and occurrences of primates in the Atlantic Forests of South America
+L Culot, LA Pereira, I Agostini, MAB de Almeida, RSC Alves, I Aximoff, ...
+Ecology 100 (1), e02525
+	48	2019
+ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest
+É Hasui, JP Metzger, RG Pimentel, LF Silveira, AAA Bovo, AC Martensen, ...
+Volume 99, Número 2, Pags. 497
+	40	2018
+ATLANTIC BIRD TRAITS: a data set of bird morphological traits from the Atlantic forests of South America
+RC Rodrigues, É Hasui, JC Assis, JCC Pena, RL Muylaert, VR Tonetti, ...
+Ecology 100 (6), e02647
+	36	2019
+A avifauna do Parque Estadual do Cerrado (Jaguariaíva, Paraná) e a conservação do cerrado em seu limite meridional de ocorrência
+FC Straube, A Urben-Filho, C Gatto
+Atualidades Ornitológicas 127 (5), 29-50
+	21	2005
+Plano de Manejo para a conservação do macaco-prego-do-peito-amarelo, Cebus xanthosternos
+MCM Kierulff, GR Santos, GR Canale, CEG Carvalho, CR Cassano, ...
+Instituto de Estudos Sócio-ambientais do Sul da Bahia, Ilhéus
+	8	2005
+Spatial Congruence Analysis (SCAN): A method for detecting biogeographical patterns based on species range congruences
+CAFR Gatto, M Cohn-Haft
+PloS one 16 (5), e0245818
+	2	2021
+Surveying populations of red-billed curassows (Crax Blumenbachii) in the Atlantic Forest of Brazil
+J Rocha, FCG Bonfim, CAFR Gatto, PF Develey, AD Alvarez, ...
+Volume 30
+	2	2019
+ATLANTIC-PRIMATES
+L Culot, LA Pereira, I Agostini, MAB de Almeida, RSC Alves, I Aximoff, ...
+Ecology 100 (1), 1-2
+		2019
+Taxonomic review of the rhinocryptid genus Eleoscytalopus (I): Bahia Tapaculo (E. psychopompus) is vocally and morphologically distinct from White-breasted Tapaculo …
+LA de Moraes, MR Bornschein, CAFR Gatto, SS Santos, GN Maurício
+The Auk: Ornithological Advances 135 (4), 1009-1019
+		2018
+ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest
+JP Metzger, RG Pimentel, LF Silveira, A Bovo, AC Martensen, A Uezu, ...
+Ecological Society of America
+		2018
+Fatores históricos, espaciais e ecologicos determinantes da composicao das comunidades de aves florestais do Rio Madeira, Porto Velho, RO
+R Boss, C Gatto, MS Ribas, MC Cerqueira, JVC Silva, B Xavier, ...
+Anais do X Congresso Neotropical de Ornitologia e XXII Congresso Brasileiro …
+		2015
+Rastreamento por telemetria convencional de Harpia harpyja no parque Nacional do Pau-Brasil, Mata Atlãntica, Bahia
+HA Silva, TM Sanaiotti, JE Mantovani, C Gatto, P Suscke, SD Ribeiro, ...
+Rastreamento por telemetria convencional de Harpia harpyja no parque …
+		2008
+Supporting Information Pervasive defaunation of forest remnants in a tropical biodiversity hotspot
+GR Canale, CA Peres, CE Guidorizzi, CAF Gatto, MCM Kierulff
+		
+Diferenças estruturais nas avifaunas de sub-bosque em tres ambientes de floresta estacional semidecidual no Parque Estadual do Rio Guarani, sudoeste do Paraná
+CAFR Gatto
+		
+
+<!--
 Canale, G.R.; Peres, C.A.; Guidorizzi, C.E.; Gatto, C.A.F.; Kierulff, M.C.M. 2012. Pervasive Defaunation of Forest Remnants in a Tropical Biodiversity Hotspot. PLoS ONE, 7 (8): e41671. doi:10.1371/journal.pone.0041671
 
 Kierulff, M.C.M.; Santos, G.R.; Canale, G.R.; Carvalho, C.E.G.; Cassano, C.R.; Gouveia, P.S.; Gatto, C.A.F.R.; Araújo, M.; Vila Nova, P.; Marques, A.C.; Santos, P.S. & Pádua, J.C. 2005b. Avaliação das populações do macaco-prego-do-peito-amarelo (Cebus xanthosternos) e proposta de estratégia para manejo e conservação da espécie. Relatório técnico. IESB (Instituto de Estudos Sócio-Ambientais do Sul da Bahia) e CI (Conservation International do Brasil). 86p.
@@ -129,7 +194,7 @@ What happens here?
 
 
 
-<!--
+
 
 You can use the [editor on GitHub](https://github.com/cassianogatto/cassianogatto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
