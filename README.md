@@ -117,27 +117,27 @@ Coordenation: Izeni Pires Farias, Ph.D.
 ## References
 [Google Scholar](see https://scholar.google.com/citations?user=vYaCyh8AAAAJ&hl=en)
 
-	Pervasive defaunation of forest remnants in a tropical biodiversity hotspot
-GR Canale, CA Peres, CE Guidorizzi, CAF Gatto, MCM Kierulff
-Public Library of Science 7 (8), e41671
-	273	2012
-First record of tool use by wild populations of the yellow‐breasted capuchin monkey (Cebus xanthosternos) and new records for the bearded capuchin (Cebus libidinosus)
-GR Canale, CE Guidorizzi, MCM Kierulff, CAFR Gatto
-American Journal of Primatology: Official Journal of the American Society of …
-	109	2009
-ATLANTIC‐PRIMATES: a dataset of communities and occurrences of primates in the Atlantic Forests of South America
-L Culot, LA Pereira, I Agostini, MAB de Almeida, RSC Alves, I Aximoff, ...
+**Pervasive defaunation of forest remnants in a tropical biodiversity hotspot**
+GR Canale, CA Peres, CE Guidorizzi, CAF Gatto, MCM Kierulff, 2012_
+Public Library of Science 7 (8), e41671_
+
+**First record of tool use by wild populations of the yellow‐breasted capuchin monkey (Cebus xanthosternos) and new records for the bearded capuchin (Cebus libidinosus)**
+GR Canale, CE Guidorizzi, MCM Kierulff, CAFR Gatto, 2009
+American Journal of Primatology: Official Journal of the American Society of Primatology_
+
+**ATLANTIC‐PRIMATES: a dataset of communities and occurrences of primates in the Atlantic Forests of South America**
+L Culot, LA Pereira, I Agostini, MAB de Almeida, RSC Alves, I Aximoff, et al., 2019_
 Ecology 100 (1), e02525
-	48	2019
-ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest
-É Hasui, JP Metzger, RG Pimentel, LF Silveira, AAA Bovo, AC Martensen, ...
+
+**ATLANTIC BIRDS: a data set of bird species from the Brazilian Atlantic Forest**
+É Hasui, JP Metzger, RG Pimentel, LF Silveira, AAA Bovo, AC Martensen, et al., 2018_
 Volume 99, Número 2, Pags. 497
-	40	2018
-ATLANTIC BIRD TRAITS: a data set of bird morphological traits from the Atlantic forests of South America
-RC Rodrigues, É Hasui, JC Assis, JCC Pena, RL Muylaert, VR Tonetti, ...
+
+**ATLANTIC BIRD TRAITS: a data set of bird morphological traits from the Atlantic forests of South America**
+RC Rodrigues, É Hasui, JC Assis, JCC Pena, RL Muylaert, VR Tonetti, et al.2019_
 Ecology 100 (6), e02647
-	36	2019
-A avifauna do Parque Estadual do Cerrado (Jaguariaíva, Paraná) e a conservação do cerrado em seu limite meridional de ocorrência
+
+**A avifauna do Parque Estadual do Cerrado (Jaguariaíva, Paraná) e a conservação do cerrado em seu limite meridional de ocorrência**
 FC Straube, A Urben-Filho, C Gatto
 Atualidades Ornitológicas 127 (5), 29-50
 	21	2005
