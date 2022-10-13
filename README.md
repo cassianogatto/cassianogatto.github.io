@@ -28,7 +28,7 @@ I'm moving beyond pure scientific and ornithological themes to activities in whi
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
-[Here](https://www.semanticscholar.org/author/Cassiano-A-F-R-Gatto/40982688) you can find a summarized view of my scientific publications. If you want to skip the detailed profile but liked what you've seem by now, you should consider contacting me at cassianogatto@gmail.com ;-)  
+[Here](https://www.semanticscholar.org/author/Cassiano-A-F-R-Gatto/40982688) you can find my scientific publications, and [here](https://drive.google.com/file/d/1-sxA_XLV-C9TKrWKzR8-KdXEQ-m4sa55/view?usp=sharing) a lite version of my CV. If you want to skip the detailed profile but liked what you've seem by now, you should consider contacting me at cassianogatto@gmail.com ;-)  
 My full CV in the official Brazilian Research Council (Lattes - CNPq) is [here](http://lattes.cnpq.br/2098095098115674)). In the following lines you can find some of my past academic and professional achievements.
 
 ## Academic Formation
