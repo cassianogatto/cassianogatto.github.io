@@ -16,6 +16,7 @@ chapeu sol Marimaruá sorriso -->
 
 # Cassiano Gatto
 ### Hi there !!
+<div style="text-align:justify">
 #### I'm a biologist-generalist interested in so many things... I've been studying some aspects of interactions between organisms, environments and environmental history, and people! in tropical South America! Here, in the Amazon, I did my doctorate on the biogeography of endemic birds. For this I have developed a new method in biogeography ([SCAN](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245818), which I am upgrading to a network environment [here](https://github.com/cassianogatto/SCAN_to_GRAPH)). Early in my career, I studied sexual selection in the lekking Blue-manakin, ecology and conservation of some endangered endemic birds and primates, effects of landscape on forest communities, and did many inventories, collections of specimens on scientific expeditions, and evaluated both the potential for conservation in many regions, as well as environmental impacts caused by anthropic activities. I studied birds and environments in the Atlantic Forest (South and Northeast of Brazil), in the drier environments of the Cerrado and Caatinga, and Amazon. Here, diverse and complementary environments harbor an incomparable diversity of life forms and cultural heritages. BTW, I am addicted to guitar improvisation in jazz and Brazilian music. Let's jam?! 🙃 (I promisse that some dayI will update my musics [here](https://soundcloud.com/user-804415737))
 
 <a href="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/0_G3o8MlktfsVMBE0HMfYqH042M0VQ2BUzUFwGzRr937y8bccCiMSkpT0MFln8LZBj91IzC2APoJDAw_fWEcvgQrOMKktuhmyKrK4euea1ETtqfj36Yva0pVlqXDKwW7HVLLjCHOIoo=w600-h290-p-k"
@@ -24,7 +25,7 @@ The world's largest river (Amazon) meets the largest dark-water river (Negro) he
 
 ## Nowadays
 I'm moving beyond pure scientific and ornithological themes to activities in which science background can be applied to the management and rational exploitation of natural resources, in particular those related to endangered species and environments, sustainable tourism activities, and natural management by traditional Amazonian populations. 
-
+</div>
 <a align="right"  href="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/Cgepa_hW4qIgH5E5FFAG0ELT5rRFS3N1k4xS5lvT4W4gRoQ3OrP0FwvuNOCRdEJJT-LL0mxKldQJUb-AoLBpBIY6X1EdnXN7IqhSUyGlg25lADIiKkRaoLOCZQ2Xv_ctvsu1YRIqBOY=w600-h315-p-k" align="right" width="150px"  /> </a>
 
 ## Curriculum Vitae
